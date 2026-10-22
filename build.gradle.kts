@@ -15,7 +15,7 @@ plugins {
     id("com.gradleup.shadow") version "9.6.0"
     id("org.danilopianini.gradle-java-qa") version "1.191.0"
 
-    id("org.danilopianini.unibo-oop-gradle-plugin") version "2.0.36"
+    id("org.danilopianini.unibo-oop-gradle-plugin") version "2.0.42"
 }
 
 java { toolchain { languageVersion.set(JavaLanguageVersion.of(25)) } }
